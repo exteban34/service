@@ -1,4 +1,4 @@
-# Servidor Calendario de *Cursos* y *Grupos*
+# Servidor Bitacoras
 
 Para ejecutar el servidor, escrito en [SailsJS](http://sailsjs.org/), es necesario descargar el repositorio y acceder a la carpeta descargada en la ruta relativa `./service`. Luego realizar lo siguiente:
 
