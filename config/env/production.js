@@ -35,5 +35,5 @@ module.exports = {
   //   level: "silent"
   // }
 
-  port: 1333
+  port: 1350
 };
